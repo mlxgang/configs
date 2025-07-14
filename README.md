@@ -8,7 +8,7 @@ A CSS linter for applying best practices and grouping related properties.
 ### Install:
 
 ```bash
-npm install --save-dev stylelint stylelint-order stylelint-semantic-groups
+npm install --save-dev stylelint stylelint-config-standard stylelint-order stylelint-semantic-groups
 ```
 
 ### Usage:
