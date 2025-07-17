@@ -10,6 +10,7 @@ A CSS linter for applying best practices and grouping related properties.
 ```bash
 npm install --save-dev stylelint stylelint-config-standard stylelint-order stylelint-semantic-groups
 ```
+Then copy `stylelint.config.js` to root directory. Don\`t forget check that `package.json` has property `"type": "module"`
 
 ### Usage:
 
